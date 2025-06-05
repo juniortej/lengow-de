@@ -51,4 +51,4 @@ jupyter notebook notebooks/analysis.ipynb
 ```
 
 ## Contact
-For any questions regarding this implementation, please contact [Your Name].
+For any questions regarding this implementation, please contact @yourdatabro.
