@@ -36,8 +36,8 @@ The solution implements a relational database with three core tables:
 - `matchings`: Relationship mapping between products
 
 For detailed schema information:
-- [Entity Relationship Diagram](docs/erDiagram.md)
-- [Schema Documentation](docs/diagramExplanation.md)
+- [Entity Relationship Diagram](Lengow/docs/erDiagram.md)
+- [Schema Documentation](Lengow/docs/diagramExplanation.md)
 
 ## Setup Instructions
 1. Clone the repository
